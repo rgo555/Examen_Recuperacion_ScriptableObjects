@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f40ea75ea4cba48a91cf324de865cc, type: 3}
+  m_Name: Armadura 2
+  m_EditorClassIdentifier: 
+  weaponName: Armadura 2
+  weaponPrice: 50
+  weaponDescription: Mas resistente que la viagra de un abuelo
+  weaponSprite: {fileID: 21300000, guid: e6a6624ab013b8e44beddfa2668afb65, type: 3}
+  weaponDamage: 60
+  weaponMagicDamage: 20
+  weaponType: 0
